@@ -4,6 +4,3 @@
 -- Inventory
 :r .\Inventory\Scripts\Populate\Populate_InventoryAction.sql
 :r .\Inventory\Scripts\Populate\Populate_InventoryTransaction.sql
-
--- Database
-:r EnableChangeTracking.sql
